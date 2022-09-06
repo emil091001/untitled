@@ -28,7 +28,12 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
 
 
 
-void delay(int milliseconds)
+
+
+
+int x = 4;
+
+                                                  void delay(int milliseconds)
 {
     long pause;
     clock_t now,then;
